@@ -1,7 +1,7 @@
-setwd('C:/Users/usuario/OneDrive/Documentos/UoM/ADEP/data')
+setwd('###')
 
 # Data reading and cleaning ############################################################################
-obe <- read.csv('DATA (oba)(final).csv')
+obe <- read.csv('data_final.csv')
 str(obe)
 #obe$gdppc2 <- obe$gdppc^2
 library(plm)
