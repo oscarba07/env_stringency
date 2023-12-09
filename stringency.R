@@ -1,4 +1,4 @@
-setwd('C:/Users/usuario/OneDrive/Documentos/UoM/Dissertation/data')
+setwd('###')
 library(plyr)
 # Data cleaning ####################################################################################
 ghg <- read.csv('Data.csv', na.strings = '.')
